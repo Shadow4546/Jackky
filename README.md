@@ -23,14 +23,14 @@
 
 ## Deploy To Koyeb
               
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/SudoR2spr/text-leech-bot&branch=heroku&name=textleechbot" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/Shadow4546/Jackky&branch=heroku&name=textleechbot" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
 
 ## Deploy To Render                  
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://render.com/deploy?repo=https://github.com/SudoR2spr/text-leech-bot/tree/heroku)
 
-## vars.py [vars.py](https://github.com/SudoR2spr/txt-leech-bot/blob/main/modules/vars.py)
+## vars.py [vars.py](https://github.com/Shadow4546/Jackky/blob/main/modules/vars.py)
 
 * `BOT_TOKEN`  - Get Bot Token From @BotFather
 
